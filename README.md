@@ -34,7 +34,6 @@ I have created Hospital Emergency Room Dashboard to improve efficiency and provi
 
 <h3>KPI'S Requirements</h3>
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/73c6974f-038a-4dd1-be31-ddaea68afed3" />
 Number of Patients:
 Count the total number of patients visiting the ER each day.<br>
 Show a daily trend with an area sparkline to spot patterns like busy or seasonal trends.<br>
