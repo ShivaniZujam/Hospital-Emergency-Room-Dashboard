@@ -13,8 +13,9 @@ I have created Hospital Emergency Room Dashboard to provide key insights into ho
 
 <li>Evaluate department referrals for better resource allocation.</li>
 
-<h3>📝 Project Steps</h3>
 </ul>
+<h3>📝 Project Steps</h3>
+
 <ul>
 
 <li>Bussiness Requirment Gathering </li>
