@@ -47,6 +47,16 @@ Check the average daily satisfaction score of patient to access service qulity.<
 Use an area sparkline to show trends, spot drop in satisfaction, and link them to busy time or challenges.
 
 
+<h3>Created charts</h3>
+<ul>
+<li>Patient Admission Status: Show how many patients were admitted vs. not admitted.</li>
+<li>Patient Admission Status: Show how many patients were admitted vs. not admitted.</li>
+<li>Timeliness: Measure the percentage of patients seen within 30 minutes.</li>
+<li>Gender Analysis: Display the number of patients by gender. </li>
+<li>Department Referrals: Check which departments patients are referred to the most.</li>
+
+  
+</ul>
 
 
 
