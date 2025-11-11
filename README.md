@@ -33,8 +33,22 @@ I have created Hospital Emergency Room Dashboard to improve efficiency and provi
 </ul>
 
 <h3>KPI'S Requirements</h3>
-
-Number of Patients:
+<ul>
+<li>Number of Patients:</li>
 Count the total number of patients visiting the ER each day.<br>
 Show a daily trend with an area sparkline to spot patterns like busy or seasonal trends.<br>
+
+<li>Average Wait Time</li>
+Find the average time of patient wait to see a medical professional.<br>
+Use an area sparkline to track daily changes and highlight days with longer wait times that might need improvement.
+
+<li>Patient Satisfaction Score </li>
+Check the average daily satisfaction score of patient to access service qulity.<br>
+Use an area sparkline to show trends, spot drop in satisfaction, and link them to busy time or challenges.
+
+
+
+
+
+
 
