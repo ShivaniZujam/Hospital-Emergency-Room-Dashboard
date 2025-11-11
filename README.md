@@ -13,10 +13,10 @@ I have created Hospital Emergency Room Dashboard to provide key insights into ho
 
 <li>Evaluate department referrals for better resource allocation.</li>
 
-<h3>Project Steps<h3>
+<h3>Project Steps</h3>
 </ul>
 <ul>
-<h6>
+
 <li>Bussiness Requirment Gathering </li>
 <li>Understanding of Data </li>
 <li>Data Connecton (Import data using power query) </li>
@@ -28,5 +28,5 @@ I have created Hospital Emergency Room Dashboard to provide key insights into ho
 <li>Charts Development and Formating </li>
 <li>Dashboard Report Development </li>
 <li>Insing Generation </li>
-</h6>
+
 </ul>
