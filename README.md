@@ -1,5 +1,5 @@
 # Hospital-Emergency-Room-Dashboard
-I have created Hospital Emergency Room Dashboard to provide key insights into hospital emergency performance. It visually represents patient data to help hospital administrators monitor and improve operational efficiency, patient satisfaction, and departmental performance.
+I have created Hospital Emergency Room Dashboard to improve efficiency and provide useful insights. This dashboard will help stakeholders monitor, analyze, and make better decisions for managing patients and improving services.
 
 <h3>🎯 Objectives</h3>
 <ul>
@@ -31,3 +31,11 @@ I have created Hospital Emergency Room Dashboard to provide key insights into ho
 <li>Insing Generation </li>
 
 </ul>
+
+<h3>KPI'S Requirements</h3>
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/73c6974f-038a-4dd1-be31-ddaea68afed3" />
+Number of Patients:
+Count the total number of patients visiting the ER each day.<br>
+Show a daily trend with an area sparkline to spot patterns like busy or seasonal trends.<br>
+
