@@ -2,17 +2,19 @@
 I have created Hospital Emergency Room Dashboard to provide key insights into hospital emergency performance. It visually represents patient data to help hospital administrators monitor and improve operational efficiency, patient satisfaction, and departmental performance.
 
 🎯 Objectives
+<ul>
+<li>Track the total number of patients visiting the emergency room.</li>
 
-Track the total number of patients visiting the emergency room.
+<li>Analyze patient admission rates and age group distribution.</li>
 
-Analyze patient admission rates and age group distribution.
+<li>Measure average waiting time and satisfaction scores.</li>
 
-Measure average waiting time and satisfaction scores.
+<li>Identify patient attendance trends and gender distribution.</li>
 
-Identify patient attendance trends and gender distribution.
+<li>Evaluate department referrals for better resource allocation.</li>
 
-Evaluate department referrals for better resource allocation.
 <h3>Project Steps<h3>
+</ul>
 <ul>
 <h6>
 <li>Bussiness Requirment Gathering </li>
